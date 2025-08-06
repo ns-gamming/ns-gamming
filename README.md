@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NABORAJ SARKAR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ns-gamming&label=Profile%20views&color=0e75b6&style=flat" alt="ns-gamming" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nsgamming699" target="blank"><img src="https://img.shields.io/twitter/follow/nsgamming699?logo=twitter&style=for-the-badge" alt="nsgamming699" /></a> </p>
 
-- 🔭 I’m currently working on **Free fire**
+- 🔭 I’m currently working on **Free fire bots**
 
 - 🌱 I’m currently learning **Macine learning**
 
@@ -15,9 +15,9 @@
 
 - 📝 I regularly write articles on [https://whatsapp.com/channel/0029Vb4QTP7GE56sVeiOJJ1i](https://whatsapp.com/channel/0029Vb4QTP7GE56sVeiOJJ1i)
 
-- 💬 Ask me about **AI**
+- 💬 Ask me about **AI AND BOTS**
 
-- 📫 How to reach me **Nishant.ns.**
+- 📫 How to reach me **Nishant.ns.business@gamil.com**
 
 - ⚡ Fun fact **I am a gamer too**
 
