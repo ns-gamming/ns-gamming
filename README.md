@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is NABORAJ SARKAR and I'm a Gamer + Devloper from INDIA 🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is NABORAJ SARKAR aka NISHANT from INDIA 🇮🇳</h2>
 
 ###
 
